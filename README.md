@@ -122,19 +122,19 @@ The application APIs were tested externally using **Postman**, validating succes
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1300" height="909" alt="image" src="https://github.com/user-attachments/assets/37e47ab4-616e-4acf-b9cb-7bb67a2eea2c" />
 
 ### Maintenance creation
-![Maintenance Form](screenshots/maintenance-form.png)
-
-### My Work Orders
-![My Work Orders](screenshots/my-workorders.png)
+<img width="1002" height="622" alt="image" src="https://github.com/user-attachments/assets/8361cf93-570e-411e-a6e7-a28bb0e6e31f" />
 
 ### Integration Monitor
-![Integration Monitor](screenshots/integration-monitor.png)
+<img width="1007" height="916" alt="image" src="https://github.com/user-attachments/assets/14f77b3c-9d20-47a8-9187-7dc10e5b8bcd" />
 
 ### API testing
-![Postman API Test](screenshots/postman-api-test.png)
+<img width="1261" height="700" alt="image" src="https://github.com/user-attachments/assets/58d1fefc-a1ec-4a0a-9ffc-192e2adc15ed" />
+
+### External DB SQL AWS using SQL Workbench
+<img width="437" height="663" alt="image" src="https://github.com/user-attachments/assets/32aeaacc-67ea-4c3a-8492-3ffec7ed9576" />
 
 ---
 
