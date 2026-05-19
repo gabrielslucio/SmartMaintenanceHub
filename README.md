@@ -14,6 +14,7 @@ This application showcases my ability to:
 - Develop a complete business application in **OutSystems ODC**
 - Creation, configuration and integration to an **external AWS SQL database**
 - Integration and usage of **MySQL Workbench** as data viewer / editor
+- Automation with **Timers** 
 - Consume external APIs
 - Expose custom APIs for external usage
 - Test API endpoints with **Postman**
@@ -31,7 +32,7 @@ The app follows a manager-driven maintenance process:
 4. The app automatically creates the related work order
 5. The **Technician** executes assigned work orders through a dedicated execution screen
 
-This deisn separates planning from execution and creates a clearer ownership model.
+This design separates planning from execution and creates a clearer ownership model.
 
 ---
 
@@ -73,6 +74,7 @@ The application also consumes an external API, including a **random number gener
 - Connected to an **AWS external database**
 - API consumption and API exposure
 - Postman validation for endpoint testing
+- Timer automation
 - Role-based access and separation of responsibilities
 - Business-oriented maintenance flow modeling
 
@@ -136,6 +138,8 @@ The application APIs were tested externally using **Postman**, validating succes
 ### External DB SQL AWS using SQL Workbench
 <img width="437" height="663" alt="image" src="https://github.com/user-attachments/assets/32aeaacc-67ea-4c3a-8492-3ffec7ed9576" />
 
+### Timers and automation 
+<img width="1364" height="636" alt="image" src="https://github.com/user-attachments/assets/a11a13e6-bf49-49a5-bcaa-b48e0e65ea83" />
 ---
 
 ## Portfolio goal
