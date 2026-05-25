@@ -130,7 +130,7 @@ The application APIs were tested externally using **Postman**, validating succes
 <img width="1002" height="622" alt="image" src="https://github.com/user-attachments/assets/8361cf93-570e-411e-a6e7-a28bb0e6e31f" />
 
 ### Integration Monitor
-<img width="1007" height="916" alt="image" src="https://github.com/user-attachments/assets/14f77b3c-9d20-47a8-9187-7dc10e5b8bcd" />
+<img width="815" height="856" alt="image" src="https://github.com/user-attachments/assets/e1059070-76b4-4d9f-bd09-218495784af2" />
 
 ### API testing
 <img width="1261" height="700" alt="image" src="https://github.com/user-attachments/assets/58d1fefc-a1ec-4a0a-9ffc-192e2adc15ed" />
